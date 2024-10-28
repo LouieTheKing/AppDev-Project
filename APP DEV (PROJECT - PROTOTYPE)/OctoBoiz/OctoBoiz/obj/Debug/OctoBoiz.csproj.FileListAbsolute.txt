@@ -1,0 +1,10 @@
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.exe.config
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.exe
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\bin\Debug\OctoBoiz.pdb
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.AssemblyReference.cache
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.Form1.resources
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.Properties.Resources.resources
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.GenerateResource.cache
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.csproj.CoreCompileInputs.cache
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.exe
+C:\Users\galan\OneDrive\Desktop\APP DEV (PROJECT - PROTOTYPE)\OctoBoiz\OctoBoiz\obj\Debug\OctoBoiz.pdb
